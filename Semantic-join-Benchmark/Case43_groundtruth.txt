@@ -1,0 +1,45 @@
+John Adams	George Washington
+Thomas Jefferson	John Adams
+Aaron Burr	Thomas Jefferson
+Elbridge Gerry	James Madison
+Daniel D. Tompkins	James Monroe
+Martin Van Buren	Andrew Jackson
+Richard M. Johnson	Martin Van Buren
+John Tyler	William Henry Harrison
+George M. Dallas	James K. Polk
+Millard Fillmore	Zachary Taylor
+William R. King	Franklin Pierce
+John C. Breckinridge	James Buchanan
+Hannibal Hamlin	Abraham Lincoln
+Andrew Johnson	Abraham Lincoln
+Schuyler Colfax	Ulysses S. Grant
+Henry Wilson	Ulysses S. Grant
+William A. Wheeler	Rutherford Birchard Hayes
+Chester A. Arthur	James A. Garfield
+Thomas A. Hendricks	Grover Cleveland
+Levi P. Morton	Benjamin Harrison
+Adlai E. Stevenson	Grover Cleveland
+Garret A. Hobart	William McKinley
+Theodore Roosevelt	William McKinley
+Charles W. Fairbanks	Theodore Roosevelt
+James S. Sherman	William H. Taft
+Thomas R. Marshall	Woodrow Wilson
+Calvin Coolidge	Warren G. Harding
+Charles G. Dawes	Calvin Coolidge
+Charles Curtis	Herbert Hoover
+John N. Garner	Franklin D. Roosevelt
+Henry A. Wallace	Franklin D. Roosevelt
+Harry S. Truman	Franklin D. Roosevelt
+Barkley, Alben W	Harry S. Truman
+Richard M. Nixon	Dwight D. Eisenhower
+Lyndon B. Johnson	John F. Kennedy
+Hubert M. Humphrey	Lyndon B. Johnson
+Spiro T. Agnew	Richard M. Nixon
+Gerald R. Ford	Richard M. Nixon
+Nelson Rockefeller	Gerald R. Ford
+Walter F. Mondale	Jimmy Carter
+George Bush	Ronald Reagan
+Dan Quayle	George Bush
+Albert Gore	Bill Clinton
+Richard Cheney	George W. Bush
+Joseph R. Biden	Barack Obama

@@ -1,0 +1,98 @@
+Harvard University	US
+Massachusetts Institute of Technology	US
+University of Cambridge	UK
+University of Oxford	UK
+University of California, Berkeley	US
+Stanford University	US
+Princeton University	US
+University of California, Los Angeles	US
+University of Tokyo	Japan
+Yale University	US
+California Institute of Technology	US
+University of Michigan	US
+Columbia University	US
+University of Chicago	US
+Imperial College London	UK
+University of Toronto	Canada
+Cornell University	US
+University of Pennsylvania	US
+Johns Hopkins University	US
+University College London	UK
+Swiss Federal Institute of Technology Zürich	Switzerland
+National University of Singapore	Singapore
+Kyoto University	Japan
+University of Illinois at Urbana Champaign	US
+London School of Economics and Political Science	UK
+Carnegie Mellon University	US
+University of Texas at Austin	US
+University of Washington	US
+New York University	US
+University of Wisconsin-Madison	US
+University of British Columbia	Canada
+Duke University	US
+McGill University	Canada
+University of California, San Diego	US
+Tsinghua University	China
+The University of Hong Kong	Hong Kong
+Northwestern University	US
+Georgia Institute of Technology	US
+University of Melbourne	Australia
+University of California, San Francisco	US
+Seoul National University	Korea, Republic Of
+Australian National University	Australia
+University of Massachusetts	US
+Ludwig-Maximilians-Universität München	Germany
+Peking University	China
+University of Edinburgh	UK
+University of Manchester	UK
+University of California, Davis	US
+The University of Sydney	Australia
+Lomonosov Moscow State University	Russian Federation
+Purdue University	US
+Delft University of Technology	Netherlands
+École Polytechnique Fédérale de Lausanne	Switzerland
+Middle East Technical University	Turkey
+University of Minnesota	US
+University of North Carolina at Chapel Hill	US
+The Ohio State University	US
+Osaka University	Japan
+Pennsylvania State University	US
+University of California, Santa Barbara	US
+National Taiwan University	Taiwan
+The Hong Kong University of Science and Technology	Hong Kong
+Karolinska Institute	Sweden
+Korea Advanced Institute of Science and Technology	Korea, Republic Of
+Leiden University	Netherlands
+University of São Paulo	Brazil
+University of Southern California	US
+Technische Universität München	Germany
+Tohoku University	Japan
+Tokyo Institute of Technology	Japan
+Hebrew University of Jerusalem	Israel
+Humboldt-Universität zu Berlin	Germany
+Katholieke Universiteit Leuven	Belgium
+Michigan State University	US
+Nanyang Technological University	Singapore
+Université Paris-Sorbonne	France
+University of Pittsburgh	US
+The University of Queensland Australia	Australia
+Universität Heidelberg	Germany
+University of Amsterdam	Netherlands
+Boston University	US
+Brown University	US
+The Chinese University of Hong Kong	Hong Kong
+École Polytechnique	France
+University of Florida	US
+The University of New South Wales	Australia
+Université Pierre et Marie Curie	France
+Rutgers, The State University of New Jersey	US
+Utrecht University	Netherlands
+Washington University in St Louis	US
+University of Bristol	UK
+Freie Universität Berlin	Germany
+Lund University	Sweden
+University of Maryland, College Park	US
+Monash University	Australia
+Université Paris-Sud	France
+Uppsala University	Sweden
+Wageningen University and Research Center	Netherlands

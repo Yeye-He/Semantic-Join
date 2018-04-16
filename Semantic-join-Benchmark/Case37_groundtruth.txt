@@ -1,0 +1,20 @@
+Bill Gates	Microsoft
+Carlos Slim Helu	Telecom
+Amancio Ortega	Retail
+Warren Buffett	Berkshire Hathaway
+Larry Ellison	Oracle
+Charles Koch	Diversified
+David Koch	Diversified
+Sheldon Adelson	Casinos
+Christy Walton	Walmart
+Jim Walton	Walmart
+Liliane Bettencourt	L’Oreal
+Stefan Persson	H&M
+Alice Walton	Walmart
+S. Robson Walton	Walmart
+Bernard Arnault	LVMH
+Michael Bloomberg	Bloomberg LP
+Larry Page	Google
+Jeff Bezos	Amazon
+Sergey Brin	Google
+Li Ka-shing	Diversified

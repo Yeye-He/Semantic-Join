@@ -1,0 +1,37 @@
+Memphis Grizzlies
+Los Angeles Clippers
+San Antonio Spurs
+Boston Celtics
+Utah Jazz
+Milwaukee Bucks
+Charlotte Bobcats
+Los Angeles Lakers
+Sacramento Kings
+Indiana Pacers
+Oklahoma City Thunder
+Philadelphia 76ers
+Portland Trail Blazers
+Miami Heat
+Brooklyn Nets
+New York Knicks
+Golden State Warriors
+Minnesota Timberwolves
+Toronto Raptors
+Atlanta Hawks
+Houston Rockets
+Detroit Pistons
+Dallas Mavericks
+Denver Nuggets
+Cleveland Cavaliers
+Chicago Bulls
+New Orleans Hornets
+Washington Wizards
+Phoenix Suns
+Orlando Magic
+
+Southwest
+Northwest
+Pacific
+Central
+Southeast
+Atlantic

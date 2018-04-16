@@ -1,0 +1,60 @@
+Memphis Grizzlies
+Los Angeles Clippers
+San Antonio Spurs
+Boston Celtics
+Utah Jazz
+Milwaukee Bucks
+Charlotte Bobcats
+Los Angeles Lakers
+Sacramento Kings
+Indiana Pacers
+Oklahoma City Thunder
+Philadelphia 76ers
+Portland Trail Blazers
+Miami Heat
+Brooklyn Nets
+New York Knicks
+Golden State Warriors
+Minnesota Timberwolves
+Toronto Raptors
+Atlanta Hawks
+Houston Rockets
+Detroit Pistons
+Dallas Mavericks
+Denver Nuggets
+Cleveland Cavaliers
+Chicago Bulls
+New Orleans Hornets
+Washington Wizards
+Phoenix Suns
+Orlando Magic
+
+AT&T Center
+Barclays Center
+American Airlines Center
+US Airways Center
+TD Garden
+Amway Center
+Oracle Arena
+The Palace of Auburn Hills
+Sleep Train Arena
+Verizon Center
+United Center
+Staples Center
+Bankers Life Fieldhouse
+Rose Garden
+Time Warner Cable Arena
+Philips Arena
+New Orleans Arena
+EnergySolutions Arena
+Target Center
+Quicken Loans Arena
+Toyota Center
+Madison Square Garden
+FedExForum
+Chesapeake Energy Arena
+Air Canada Center
+American Airlines Arena
+Pepsi Center
+BMO Harris Bradley Center
+Wells Fargo Center

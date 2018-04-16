@@ -1,0 +1,399 @@
+Methane
+Water
+Lead (IV) Bromide
+Copper (II) Nitrate
+Zince Sulfide
+Iron (II) Sulfide
+Ammonium Sulfide
+Copper (II) sulfate
+Silver Chromate
+Magnesium Chromate
+Carbon monoxide
+Silver Hydroxide
+Ammonium Bromide
+Iron (II) Acetate
+Mercury (I) Acetate
+Potassium Carbonate
+Calcium Sulfate
+Iron (II) Sulfate
+Potassium Iodide
+Zinc Chloride
+Barium Hydroxide
+Calcium Carbonate
+Iron (III) Phosphate
+Lead (II) Nitrate
+Zinc Acetate
+Mercury (II) Nitrate
+Mercury (I) Chromate
+Ammonium Acetate
+Sodium Nitrate
+Calcium Sulfide
+Lead (IV) Iodide
+Lead (IV) Sulfate
+Aluminum Hydroxide
+Mercury (I) Sulfide
+Iron (III) Iodide
+Potassium Nitrate
+Hydrogen sulfide
+Mercury (II) Chromate
+Zinc Bromide
+Zinc Sulfate
+Oxygen
+Potassium Phosphate
+Barium Sulfate
+Lead (IV) Sulfide
+Copper (II) Chromate
+Sodium Chromate
+Copper (II) Chloride
+Sodium Iodide
+Barium Sulfide
+Lead (II) Hydroxide
+Aluminum Sulfide
+Iron (II) Carbonate
+Mercury (II) Iodide
+Ammonium Phosphate
+Copper (II) Carbonate
+Lead (IV) Chromate
+Lead (IV) Hydroxide
+Iron (III) Nitate
+Aluminum Chromate
+Iron (III) Hydroxide
+Barium Nitrate
+Silver Sulfate
+Silver Sulfide
+Ammonium Carbonate
+Lead (II) Iodide
+Magnesium Acetate
+Aluminum Sulfate
+Lead (II) Chromate
+Lead (II) Chloride
+Sodium Phosphate
+Iron (II) Phosphate
+Calcium Acetate
+Sulfur dioxide
+Magnesium Hydroxide
+Copper (II) Sulfide
+Sodium Sulfide
+Iron (II) Chromate
+Copper (II) Phosphate
+Mercury (I) Phosphate
+Hydrogen fluoride
+Iron (II) Chloride
+Calcium Bromide
+Calcium Chloride
+Silver Nitrate
+Chlorine
+Mercury (I) Carbonate
+Calcium Chromate
+Nitrogen
+Ammonia
+Merucry (II) Chloride
+Iron (II) NItrate
+Mercury (I) Iodide
+Iron (II) Bromide
+Copper (II) Sulfate
+Aluminum Nitrate
+Sodium Sulfate
+Aluminum Carbonate
+Aluminum Iodide
+Lead (II) oxide
+Zinc Hydroxide
+Potassium Sulfate
+Hydrogen iodide
+Carbon dioxide
+Sodium Carbonate
+Lead (II) Sulfide
+Aluminum Phosphate
+Mercury (I) Nitrate
+Calcium Hydroxide
+Copper (II) Bromide
+Barium Chromate
+Ethyne (acetylene)
+Magnesium Phosphate
+Silver Carbonate
+Ammonium Chloride
+Aluminun oxide
+Merucry (I) Chloride
+Lead (IV) Nitrate
+Aluminum Chloride
+Ammonium Nitrate
+Sodium Bromide
+Lead (II) Carbonate
+Lead (IV) Phosphate
+Copper (II) Acetate
+Zinc Nitrate
+Barium Phosphate
+Potassium Chloride
+Potassium Sulfide
+Potassium chloride
+Iron (II) Iodide
+Mercury (II) Bromide
+Potassium Acetate
+Lead (II) Acetate
+Iron (III) Chloride
+Iron (III) Chromate
+Potassium Chromate
+Hydrogen chloride
+Silver Acetate
+Silver Phosphate
+Potassium Hydroxide
+Sodium Acetate
+Copper (II) Iodide
+Merucry (I) Hydroxide
+Magnesium Bromide
+Sodium Chloride
+Calcium Nitrate
+Silver Bromide
+Aluminum Acetate
+Sodium chloride
+Lead (II) Phosphate
+Iodine chloride
+Aluminum Bromide
+Barium Carbonate
+Iron (III) Acetate
+Mercury (II) Hydroxide
+Calcium Iodide
+Silver Chloride
+Magnesium Sulfate
+Merucry (II) Sulfate
+Barium Acetate
+Barium Chloride
+Magnesium Chloride
+Zinc Chromate
+Mercury (II) Phosphate
+Iron (III) Bromide
+Nitrogen (IV) oxide
+Barium Bromide
+Magnesium Sulfide
+Magnesium oxide
+Barium Iodide
+Copper (II) Hydroxide
+Ethene (ethylene)
+Ammonium Iodide
+Merucry (II) Acetate
+Zinc Phosphate
+Calcium hydroxide
+Nitrogen (II) oxide
+Hydrogen
+Silver Iodide
+Mercury (II) Carbonate
+Mercury (I) Sulfate
+Zinc Iodide
+Iron (III) Sulfide
+Magnesium Nitrate
+Iron (III) Sulfate
+Lead (II) Bromide
+Magnesium Carbonate
+Potassium Bromide
+Magnesium Iodide
+Ammonium Chromate
+Ammonium Sulfate
+Mercury (II) Sulfide
+Ethane
+Lead (II) Sulfate
+Mercury (I) Bromide
+Lead (IV) Acetate
+Iron (III) Carbonate
+Iron (II) Hydroxide
+Ammonium Hydroxide
+Sodium Hydroxide
+Calcium Phosphate
+Zinc Carbonate
+
+CuS
+FeCO3
+Hg3PO4
+Pb(C2H3O2)2
+Al2S3
+Pb(C2H3O2)4
+FeI3
+FeI2
+FeSO4
+KCl
+CuBr2
+CaI2
+Fe(C2H3O2)2
+ZnCrO4
+Mg(OH)2
+AlPO4
+Fe2(SO4)3
+Fe3(PO4)2
+Pb3(PO4)2
+Pb3(PO4)4
+Fe(C2H3O2)3
+Mg(NO3)2
+KNO3
+HgI2
+ZnCO3
+CaCl2
+Ag2CrO4
+AlBr3
+CuSO4
+KC2H3O2
+HgBr2
+MgI2
+CO
+Ca3(PO4)2
+CH4
+(NH4)3PO4
+PbO
+MgCrO4
+AgOH
+PbS
+AgC2H3O2
+K2CrO4
+K2SO4
+AlI3
+FeBr2
+FeBr3
+Pb(CO3)2
+Al2O3
+NO2
+Al(C2H3O2)3
+ICl
+CuCO3
+PbSO4
+Pb(SO4)2
+K2CO3
+Al(OH)3
+HgCrO4
+Na2CO3
+MgCl2
+ZnSO4
+H2O
+Zn(C2H3O2)2
+H2S
+Fe(NO3)3
+Fe(NO3)2
+Cu(C2H3O2)2
+Zn(NO3)2
+Na2SO4
+PbI4
+Fe2S3
+PbI2
+AgI
+CuCrO4
+Cl2
+NaOH
+Ba(NO3)2
+ZnBr2
+Fe(OH)3
+BaBr2
+Fe(OH)2
+HCl
+Ba(OH)2
+FeCrO4
+NaI
+NH4C2H3O2
+FePO4
+PbBr2
+Ag3PO4
+PbBr4
+Zn(OH)2
+H2
+Cu(NO3)2
+Al2(CO3)3
+HF
+HI
+Ca(C2H3O2)2
+HgI
+Ca(OH)2
+(NH4)2CrO4
+(NH4)2CO3
+CuCl2
+Mg3(PO4)2
+HgS
+HgOH
+(NH4)2SO4
+MgCO3
+Zn2(PO4)2
+Hg2SO4
+Ba3(PO4)2
+AgBr
+Al2(SO4)3
+MgSO4
+HgNO3
+Ag2S
+CuI2
+CO2
+BaCO3
+Hg3(PO4)2
+AgNO3
+AgCl
+Na2S
+FeS
+BaSO4
+SO2
+AlCl3
+CaBr2
+(NH4)2S
+Hg(NO3)2
+KI
+NaC2H3O2
+Na2CrO4
+PbCO3
+C2H6
+Hg2CrO4
+C2H4
+BaCrO4
+KOH
+C2H2
+HgCl2
+ZnI2
+Ba(C2H3O2)2
+ZnS
+NH4OH
+FeCl3
+Ag2SO4
+FeCl2
+Al2(CrO4)3
+Cu3(PO4)2
+CaS
+Pb(NO3)4
+Pb(NO3)2
+Fe2(CrO4)3
+Pb(OH)4
+Pb(OH)2
+N2
+MgBr2
+NaBr
+NaNO3
+PbCrO4
+NH4Cl
+NH4NO3
+HgC2H3O2
+Ag2CO3
+BaI2
+NH3
+NaCl
+NO
+O2
+BaCl2
+NH4Br
+CaSO4
+Hg(C2H3O2)2
+HgCl
+Ca(NO3)2
+ZnCl2
+MgO
+CaCO3
+Hg2CO3
+BaS
+MgS
+CaCrO4
+Cu(OH)2
+Na3PO4
+Al(NO3)3
+Hg2S
+PbCl2
+Fe2(CO3)3
+Mg(C2H3O2)2
+NH4I
+HgBr
+K2S
+HgCO3
+K3PO4
+PbS2
+Hg(OH)2
+KBr
+HgSO4

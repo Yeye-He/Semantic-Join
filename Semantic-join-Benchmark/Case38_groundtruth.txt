@@ -1,0 +1,100 @@
+ICBC	China
+China Construction Bank	China
+Agricultural Bank of China	China
+JPMorgan Chase	United States
+Berkshire Hathaway	United States
+Exxon Mobil	United States
+General Electric	United States
+Wells Fargo	United States
+Bank of China	China
+PetroChina	China
+Royal Dutch Shell	Netherlands
+Toyota Motor	Japan
+Bank of America	United States
+HSBC Holdings	United Kingdom
+Apple	United States
+Citigroup	United States
+BP	United Kingdom
+Chevron	United States
+Volkswagen Group	Germany
+Wal-Mart Stores	United States
+Gazprom	Russia
+Samsung Electronics	South Korea
+AT&amp;T	United States
+BNP Paribas	France
+Total	France
+Verizon Communications	United States
+Allianz	Germany
+China Mobile	Hong Kong
+Sinopec-China Petroleum	China
+Petrobras	Brazil
+Daimler	Germany
+Microsoft	United States
+AXA Group	France
+Rosneft	Russia
+IBM	United States
+Nestle	Switzerland
+Mitsubishi UFJ Financial	Japan
+Vodafone	United Kingdom
+Eni	Italy
+Procter &amp; Gamble	United States
+Johnson &amp; Johnson	United States
+American International Group	United States
+Banco Santander	Spain
+BHP Billiton	Australia
+Pfizer	United States
+Itaú Unibanco Holding	Brazil
+Ford Motor	United States
+BMW Group	Germany
+Commonwealth Bank	Australia
+EDF	France
+Statoil	Norway
+Google	United States
+Siemens	Germany
+Novartis	Switzerland
+Royal Bank of Canada	Canada
+Sumitomo Mitsui Financial	Japan
+Comcast	United States
+Sberbank	Russia
+Goldman Sachs Group	United States
+Westpac Banking Group	Australia
+Nippon Telegraph &amp; Tel	Japan
+Ping An Insurance Group	China
+Banco Bradesco	Brazil
+Anheuser-Busch InBev	Belgium
+Bank of Communications	China
+China Life Insurance	China
+General Motors	United States
+Telefónica	Spain
+MetLife	United States
+Honda Motor	Japan
+Enel	Italy
+BASF	Germany
+Softbank	Japan
+National Australia Bank	Australia
+ANZ	Australia
+ConocoPhillips	United States
+TD Bank Group	Canada
+Intel	United States
+UBS	Switzerland
+Hewlett-Packard	United States
+Coca-Cola	United States
+Cisco Systems	United States
+LukOil	Russia
+Zurich Insurance Group	Switzerland
+UnitedHealth Group	United States
+Boeing	United States
+Hyundai Motor	South Korea
+Sanofi	France
+Credit Agricole	France
+United Technologies	United States
+Roche Holding	Switzerland
+Munich Re	Germany
+PepsiCo	United States
+Oracle	United States
+Bank of Nova Scotia	Canada
+CVS Caremark	United States
+ING Group	Netherlands
+Saudi Basic Industries	Saudi Arabia
+Merck &amp; Co	United States
+Walt Disney	United States

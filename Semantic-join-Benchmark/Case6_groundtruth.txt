@@ -1,0 +1,43 @@
+Zachary Taylor	Virginia
+Warren G. Harding	Ohio
+John Quincy Adams	Massachusetts
+John F. Kennedy	Massachusetts
+Grover Cleveland	New Jersey
+William Henry Harrison	Virginia
+John Tyler	Virginia
+William Howard Taft	Ohio
+James Buchanan	Pennsylvania
+Rutherford B. Hayes	Ohio
+Dwight D. Eisenhower	Texas
+Chester A. Arthur	Vermont
+Franklin Pierce	New Hampshire
+Barack Obama	Hawaii
+Bill Clinton	Arkansas
+Franklin D. Roosevelt	New York
+Martin Van Buren	New York
+Harry S. Truman	Missouri
+Andrew Jackson	South Carolina
+George H. W. Bush	Massachusetts
+James A. Garfield	Ohio
+George W. Bush	Connecticut
+Theodore Roosevelt	New York
+William McKinley	Ohio
+Abraham Lincoln	Kentucky
+Benjamin Harrison	Ohio
+Gerald Ford	Nebraska
+James K. Polk	North Carolina
+Jimmy Carter	Georgia
+Calvin Coolidge	Vermont
+Ulysses S. Grant	Ohio
+James Madison	Virginia
+John Adams	Massachusetts
+Andrew Johnson	North Carolina
+Thomas Jefferson	Virginia
+Lyndon B. Johnson	Texas
+Woodrow Wilson	Virginia
+Millard Fillmore	New York
+Ronald Reagan	Illinois
+Herbert Hoover	Iowa
+George Washington	Virginia
+James Monroe	Virginia
+Richard Nixon	California

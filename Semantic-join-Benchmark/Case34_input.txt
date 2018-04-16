@@ -1,0 +1,62 @@
+BAIC
+Chrysler
+Suzuki
+China National Heavy Duty Truck
+AvtoVAZ
+Shannxi
+Hyundai
+Tata
+PSA
+Chery
+Mazda
+Navistar
+Paccar
+Sichuan Nanjun
+Daimler AG
+South East (Fujian)
+Guangzhou Auto Industry
+Chongqing Lifan Motor Co
+Toyota
+Tangjun Ou Ling
+Brilliance
+GAZ
+Volkswagen
+Volvo
+Hunan Jiangnan Automobile Manufacturing Co
+Hebei Zhongxing
+BYD
+Honda
+SAIC
+Fuji
+UAZ
+Dongfeng Motor
+Xiamen King Long
+Proton
+Porsche
+Isuzu
+Ashok Leyland
+Changan
+Renault
+Geely
+GM
+Mitsubishi
+BMW
+JAC
+Mahindra
+Great Wall
+Fiat
+Ford
+FAW
+Nissan
+
+South Korea
+Sweden
+United States
+Japan
+China
+Italy
+Malaysia
+France
+Germany
+India
+Russia

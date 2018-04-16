@@ -1,0 +1,33 @@
+Lambert–St. Louis International Airport	MO
+William P. Hobby Airport	TX
+Nashville International Airport	TN
+Austin-Bergstrom International Airport	TX
+Kansas City International Airport	MO
+Metropolitan Oakland International Airport	CA
+Louis Armstrong New Orleans International Airport	LA
+John Wayne Airport	CA
+Raleigh-Durham International Airport	NC
+Cleveland Hopkins International Airport	OH
+San Jose International Airport	CA
+Sacramento International Airport	CA
+Luis Muñoz Marín International Airport	PR
+Dallas Love Field	TX
+San Antonio International Airport	TX
+Pittsburgh International Airport	PA
+Southwest Florida International Airport	FL
+Indianapolis International Airport	IN
+General Mitchell International Airport	WI
+Port Columbus International Airport	OH
+Kahului Airport	HI
+Palm Beach International Airport	FL
+Cincinnati/Northern Kentucky International Airport	OH
+Bradley International Airport	CT
+Buffalo Niagara International Airport	NY
+Jacksonville International Airport	FL
+Albuquerque International Sunport	NM
+Ted Stevens Anchorage International Airport	AK
+Memphis International Airport	TN
+Eppley Airfield	NE
+Ontario International Airport	CA
+Bob Hope Airport	CA
+Theodore Francis Green State Airport	RI

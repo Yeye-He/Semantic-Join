@@ -1,0 +1,10 @@
+Toronto	Ontario
+Montreal	Quebec
+Calgary	Alberta
+Ottawa	Ontario
+Edmonton	Alberta
+Mississauga	Ontario
+Winnipeg	Manitoba
+Vancouver	British Columbia
+Brampton	Ontario
+Hamilton	Ontario

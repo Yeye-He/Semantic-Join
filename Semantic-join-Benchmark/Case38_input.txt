@@ -1,0 +1,120 @@
+Allianz
+United Technologies
+BHP Billiton
+Merck &amp; Co
+Roche Holding
+HSBC Holdings
+Enel
+China Life Insurance
+Westpac Banking Group
+Siemens
+Microsoft
+Royal Bank of Canada
+Hyundai Motor
+TD Bank Group
+Sumitomo Mitsui Financial
+Walt Disney
+Google
+Wells Fargo
+Hewlett-Packard
+Saudi Basic Industries
+Nestle
+ING Group
+Zurich Insurance Group
+American International Group
+Citigroup
+Nippon Telegraph &amp; Tel
+Exxon Mobil
+JPMorgan Chase
+Johnson &amp; Johnson
+BP
+Daimler
+IBM
+Goldman Sachs Group
+Banco Bradesco
+AXA Group
+National Australia Bank
+Bank of Nova Scotia
+Anheuser-Busch InBev
+UBS
+Sberbank
+Gazprom
+Novartis
+PepsiCo
+Munich Re
+Cisco Systems
+CVS Caremark
+Berkshire Hathaway
+China Mobile
+Bank of China
+Agricultural Bank of China
+EDF
+Wal-Mart Stores
+Procter &amp; Gamble
+Intel
+Royal Dutch Shell
+Commonwealth Bank
+Ping An Insurance Group
+Banco Santander
+Chevron
+Sanofi
+Petrobras
+Boeing
+Volkswagen Group
+China Construction Bank
+Samsung Electronics
+General Electric
+Coca-Cola
+Mitsubishi UFJ Financial
+Verizon Communications
+BNP Paribas
+Credit Agricole
+Eni
+LukOil
+Honda Motor
+Rosneft
+BASF
+ANZ
+Bank of America
+AT&amp;T
+ConocoPhillips
+Ford Motor
+Bank of Communications
+Sinopec-China Petroleum
+Oracle
+Pfizer
+Itaú Unibanco Holding
+Apple
+Vodafone
+General Motors
+Softbank
+Toyota Motor
+PetroChina
+Total
+UnitedHealth Group
+MetLife
+ICBC
+Comcast
+Statoil
+BMW Group
+Telefónica
+
+Hong Kong
+United States
+Japan
+United Kingdom
+Switzerland
+Russia
+Spain
+Saudi Arabia
+Canada
+Netherlands
+South Korea
+Belgium
+Norway
+China
+Brazil
+Italy
+France
+Australia
+Germany

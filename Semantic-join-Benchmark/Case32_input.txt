@@ -1,0 +1,55 @@
+San Francisco 49ers
+Houston Texans
+Minnesota Vikings
+Oakland Raiders
+Philadelphia Eagles
+Arizona Cardinals
+Washington Redskins
+New York Giants
+San Diego Chargers
+Atlanta Falcons
+Kansas City Chiefs
+Buffalo Bills
+New Orleans Saints
+Jacksonville Jaguars
+Tampa Bay Buccaneers
+Baltimore Ravens
+Dallas Cowboys
+Green Bay Packers
+Cincinnati Bengals
+New York Jets
+Seattle Seahawks
+Pittsburgh Steelers
+Denver Broncos
+Carolina Panthers
+New England Patriots
+St. Louis Rams
+Miami Dolphins
+Indianapolis Colts
+Cleveland Browns
+Chicago Bears
+Tennessee Titans
+Detroit Lions
+
+North Carolina
+New York
+Indiana
+Tennessee
+Minnesota
+California
+Florida
+New Jersey
+Washington
+Pennsylvania
+Michigan
+Texas
+Colorado
+Massachusetts
+Illinois
+Missouri
+Louisiana
+Ohio
+Georgia
+Maryland
+Wisconsin
+Arizona

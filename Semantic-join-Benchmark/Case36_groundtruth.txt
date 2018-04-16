@@ -1,0 +1,20 @@
+Bill Gates	United States
+Carlos Slim Helu	Mexico
+Amancio Ortega	Spain
+Warren Buffett	United States
+Larry Ellison	United States
+Charles Koch	United States
+David Koch	United States
+Sheldon Adelson	United States
+Christy Walton	United States
+Jim Walton	United States
+Liliane Bettencourt	France
+Stefan Persson	Sweden
+Alice Walton	United States
+S. Robson Walton	United States
+Bernard Arnault	France
+Michael Bloomberg	United States
+Larry Page	United States
+Jeff Bezos	United States
+Sergey Brin	United States
+Li Ka-shing	Hong Kong

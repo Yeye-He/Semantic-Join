@@ -1,0 +1,28 @@
+Sony
+Google
+Dell
+Toshiba
+HP
+Hitachi
+Apple Inc.
+Intel
+Samsung Electronics
+LG Electronics
+IBM
+Amazon.com
+Panasonic
+Microsoft
+Foxconn
+
+Mountain View, CA, USA
+Palo Alto, CA, USA
+Tokyo, Japan
+Osaka, Japan
+Redmond, WA, USA
+Seoul, South Korea
+Austin, TX, USA
+Santa Clara, CA, USA
+New Taipei, Taiwan
+Armonk, NY, USA
+Cupertino, CA, USA
+Seattle, WA, USA

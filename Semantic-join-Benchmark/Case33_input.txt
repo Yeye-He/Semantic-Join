@@ -1,0 +1,64 @@
+San Francisco 49ers
+Houston Texans
+Minnesota Vikings
+Oakland Raiders
+Philadelphia Eagles
+Arizona Cardinals
+Washington Redskins
+New York Giants
+San Diego Chargers
+Atlanta Falcons
+Kansas City Chiefs
+Buffalo Bills
+New Orleans Saints
+Jacksonville Jaguars
+Tampa Bay Buccaneers
+Baltimore Ravens
+Dallas Cowboys
+Green Bay Packers
+Cincinnati Bengals
+New York Jets
+Seattle Seahawks
+Pittsburgh Steelers
+Denver Broncos
+Carolina Panthers
+New England Patriots
+St. Louis Rams
+Miami Dolphins
+Indianapolis Colts
+Cleveland Browns
+Chicago Bears
+Tennessee Titans
+Detroit Lions
+
+Bank of America Stadium
+Ford Field
+LP Field
+Edward Jones Dome
+Lambeau Field
+EverBank Field
+Heinz Field
+Arrowhead Stadium
+Lincoln Financial Field
+Gillette Stadium
+Hubert H. Humphrey Metrodome
+Paul Brown Stadium
+Candlestick Park
+Sun Life Stadium
+Soldier Field
+Ralph Wilson Stadium
+Raymond James Stadium
+University of Phoenix Stadium
+Georgia Dome
+Cleveland Brown Stadium
+M&T Bank Stadium
+CenturyLink Field
+Cowboys Stadium
+Sports Authority Field at Mile High
+Mercedes-Benz Superdome
+FedEx Field
+Reliant Stadium
+O.co Coliseum
+MetLife Stadium
+Lucas Oil Stadium
+Qualcomm Stadium

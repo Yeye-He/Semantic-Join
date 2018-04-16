@@ -1,0 +1,34 @@
+George Washington	Martha Washington
+John Adams	Abigail Adams
+James Madison	Dolley Madison
+John Quincy Adams	Louisa Catherine Adams
+Andrew Jackson	Rachel Jackson
+Martin Van Buren	Hannah Hoes Van Buren
+Millard Fillmore	Abigail Powers Fillmore
+Franklin Pierce	Jane M. Pierce
+Abraham Lincoln	Mary Todd Lincoln
+Andrew Johnson	Eliza McCardle Johnson
+Ulysses S. Grant	Julia Dent Grant
+Rutherford Birchard Hayes	Lucy Webb Hayes
+James A. Garfield	Lucretia Rudolph Garfield
+Chester A. Arthur	Ellen Lewis Herndon Arthur
+Grover Cleveland	Frances Folsom Cleveland
+Benjamin Harrison	Caroline Lavinia Scott Harrison; Mary Lord Harrison
+Grover Cleveland	Frances Folsom Cleveland
+William McKinley	Ida Saxton McKinley
+Theodore Roosevelt	Edith Kermit Carow Roosevelt
+Warren G. Harding	Florence Kling Harding
+Herbert Hoover	Lou Henry Hoover
+Franklin D. Roosevelt	Eleanor Roosevelt
+Harry S. Truman	Bess Wallace Truman
+Dwight D. Eisenhower	Mamie Doud Eisenhower
+John F. Kennedy	Jacqueline Kennedy Onassis
+Lyndon B. Johnson	Lady Bird Johnson
+Richard M. Nixon	Pat Nixon
+Gerald R. Ford	Betty Ford
+Jimmy Carter	Rosalynn Carter
+Ronald Reagan	Nancy Reagan
+George Bush	Barbara Bush
+Bill Clinton	Hillary Rodham Clinton
+George W. Bush	Laura Bush
+Barack Obama	Michelle Obama

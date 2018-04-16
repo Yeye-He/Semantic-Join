@@ -1,0 +1,469 @@
+Papua New Guinea
+Cambodia
+Kazakhstan
+Paraguay
+Syria
+Bahamas
+Solomon Islands
+Montserrat
+Mali
+Marshall Islands
+Panama
+Laos
+Argentina
+Falkland Islands
+Seychelles
+Belize
+Zambia
+Bahrain
+Guinea-Bissau
+Saint Barthelemy
+Namibia
+Comoros
+Faroe Islands
+Finland
+Netherlands Antilles
+Georgia
+Saint Kitts and Nevis
+Yemen
+Eritrea
+Puerto Rico
+Holy See (Vatican City)
+Aruba
+Madagascar
+Ivory Coast
+Libya
+Saint Martin
+Sweden
+Cocos (Keeling) Islands
+Malawi
+Andorra
+Liechtenstein
+Poland
+Svalbard
+Bulgaria
+Jordan
+Tunisia
+Tuvalu
+United Arab Emirates
+Kenya
+French Polynesia
+Brunei
+Djibouti
+Lebanon
+Azerbaijan
+Cuba
+Czech Republic
+Mauritania
+Saint Lucia
+Mayotte
+Israel
+San Marino
+Australia
+Tajikistan
+Cameroon
+Gibraltar
+Cyprus
+Northern Mariana Islands
+Malaysia
+Iceland
+Oman
+Armenia
+Gabon
+Luxembourg
+Brazil
+Turks and Caicos Islands
+Algeria
+Jersey
+Slovenia
+Republic of the Congo
+Antigua and Barbuda
+Colombia
+Ecuador
+Moldova
+Vanuatu
+Honduras
+Italy
+Antarctica
+Burma (Myanmar)
+Nauru
+Haiti
+Afghanistan
+Burundi
+Singapore
+American Samoa
+Christmas Island
+Russia
+Netherlands
+China
+Saint Pierre and Miquelon
+Kyrgyzstan
+Bhutan
+Romania
+Togo
+Philippines
+Uzbekistan
+British Virgin Islands
+Zimbabwe
+British Indian Ocean Territory
+Montenegro
+Dominica
+Indonesia
+Benin
+Angola
+Sudan
+Portugal
+New Caledonia
+Grenada
+North Korea
+Cayman Islands
+Greece
+Latvia
+Mongolia
+Iran
+Morocco
+Guatemala
+Guyana
+Iraq
+Chile
+Nepal
+Isle of Man
+Tanzania
+Ukraine
+Ghana
+Anguilla
+India
+Canada
+Maldives
+Turkey
+Belgium
+Taiwan
+South Africa
+Trinidad and Tobago
+Bermuda
+Central African Republic
+Democratic Republic of the Congo
+Jamaica
+Peru
+Turkmenistan
+Germany
+Fiji
+Tokelau
+Hong Kong
+Guinea
+United States
+Chad
+Somalia
+Sao Tome and Principe
+Pitcairn Islands
+Thailand
+Equatorial Guinea
+Kiribati
+Costa Rica
+Vietnam
+Kuwait
+Nigeria
+Croatia
+Cook Islands
+Sri Lanka
+Uruguay
+Timor-Leste
+United Kingdom
+Switzerland
+Samoa
+Spain
+Liberia
+Venezuela
+Burkina Faso
+Swaziland
+Palau
+Estonia
+Wallis and Futuna
+Niue
+Austria
+South Korea
+Mozambique
+El Salvador
+Monaco
+Guam
+Lesotho
+Tonga
+Western Sahara
+Hungary
+Japan
+Belarus
+Mauritius
+Albania
+Norfolk Island
+New Zealand
+Senegal
+Macedonia
+Ethiopia
+US Virgin Islands
+Egypt
+Macau
+Sierra Leone
+Bolivia
+Malta
+Saudi Arabia
+Cape Verde
+Pakistan
+Gambia
+Ireland
+Qatar
+Slovakia
+France
+Lithuania
+Serbia
+Bosnia and Herzegovina
+Niger
+Rwanda
+Bangladesh
+Barbados
+Nicaragua
+Norway
+Botswana
+Saint Vincent and the Grenadines
+Denmark
+Dominican Republic
+Mexico
+Uganda
+Micronesia
+Suriname
+Greenland
+Saint Helena
+
+NZL
+FJI
+PNG
+STP
+MHL
+WLF
+CUB
+SDN
+GMB
+MYS
+MYT
+TWN
+POL
+OMN
+SUR
+ARE
+KEN
+ARG
+GNB
+ARM
+UZB
+BTN
+SEN
+TGO
+IRL
+FLK
+IRN
+QAT
+BDI
+NLD
+IRQ
+SVK
+SVN
+GNQ
+THA
+ABW
+ASM
+SWE
+MKD
+BEL
+ISR
+KWT
+LIE
+DZA
+BEN
+ATA
+RUS
+ATG
+ITA
+SWZ
+TZA
+PAK
+BFA
+CXR
+PAN
+SGP
+UKR
+JEY
+KGZ
+CHE
+DJI
+CHL
+PRI
+CHN
+PRK
+MLI
+BWA
+HRV
+KHM
+IDN
+PRT
+MLT
+TJK
+VNM
+CYM
+PRY
+SHN
+CYP
+SYC
+RWA
+BGD
+AUS
+AUT
+LKA
+GAB
+ZWE
+BGR
+SYR
+CZE
+NOR
+CIV
+MMR
+TKL
+KIR
+TKM
+GRD
+GRC
+PCN
+HTI
+GRL
+YEM
+AFG
+MNE
+MNG
+NPL
+BHS
+BHR
+MNP
+GBR
+SJM
+DMA
+TLS
+BIH
+HUN
+AGO
+WSM
+FRA
+MOZ
+NAM
+PER
+DNK
+GTM
+FRO
+VAT
+SLB
+SLE
+NRU
+AIA
+SLV
+GUM
+FSM
+DOM
+CMR
+GUY
+IS
+AZE
+MAC
+GEO
+TON
+MAF
+NCL
+SMR
+ERI
+MAR
+KNA
+BLM
+VCT
+BLR
+MRT
+BLZ
+PHL
+COD
+COG
+ESH
+PYF
+URY
+COK
+COM
+COL
+USA
+ESP
+EST
+BMU
+MSR
+ZMB
+KOR
+SOM
+VUT
+ECU
+ALB
+ETH
+MCO
+NER
+LAO
+VEN
+GHA
+CPV
+MDA
+MDG
+SPM
+NFK
+LBN
+LBR
+BOL
+MDV
+GIB
+LBY
+HKG
+CAF
+LSO
+NGA
+MUS
+IMN
+LCA
+JOR
+GIN
+VGB
+CAN
+TCA
+TCD
+CRC
+AND
+ROU
+IND
+MEX
+SRB
+KAZ
+SAU
+ANT
+JPN
+LTU
+TTO
+PLW
+MWI
+NIC
+CCK
+FIN
+TUN
+LUX
+UGA
+IOT
+BRA
+TUR
+BRB
+TUV
+DEU
+EGY
+LVA
+JAM
+NIU
+ZAF
+VIR
+BRN
+HND

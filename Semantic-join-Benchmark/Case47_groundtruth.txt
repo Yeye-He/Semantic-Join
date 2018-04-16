@@ -1,0 +1,242 @@
+USS Abraham Lincoln	Nimitz
+USS Alabama	Ohio
+USS Alaska	Ohio
+USS Albany	Los Angeles
+USS Albuquerque	Los Angeles
+USS Alexandria	Los Angeles
+USS America	America
+USS Anchorage	San Antonio
+USS Annapolis	Los Angeles
+USS Antietam	Ticonderoga
+USS Anzio	Ticonderoga
+USS Ardent	Avenger
+USS Arleigh Burke	Arleigh Burke
+USS Arlington	San Antonio
+USS Asheville	Los Angeles
+USS Ashland	Whidbey Island
+USS Bainbridge	Arleigh Burke
+USS Barry	Arleigh Burke
+USS Bataan	Wasp
+USS Benfold	Arleigh Burke
+USS Blue Ridge	Blue Ridge
+USS Boise	Los Angeles
+USS Bonhomme Richard	Wasp
+USS Boxer	Wasp
+USS Bremerton	Los Angeles
+USS Buffalo	Los Angeles
+USS Bulkeley	Arleigh Burke
+USS Bunker Hill	Ticonderoga
+USS California	Virginia
+USS Cape St. George	Ticonderoga
+USS Carl Vinson	Nimitz
+USS Carney	Arleigh Burke
+USS Carter Hall	Harpers Ferry
+USS Chafee	Arleigh Burke
+USS Champion	Avenger
+USS Chancellorsville	Ticonderoga
+USS Charlotte	Los Angeles
+USS Cheyenne	Los Angeles
+USS Chicago	Los Angeles
+USS Chief	Avenger
+USS Chinook	Cyclone
+USS Chosin	Ticonderoga
+USS Chung-Hoon	Arleigh Burke
+USS City of Corpus Christi	Los Angeles
+USS Cole	Arleigh Burke
+USS Columbia	Los Angeles
+USS Columbus	Los Angeles
+USS Comstock	Whidbey Island
+USS Connecticut	Seawolf
+USS Constitution	Original six frigates
+USS Coronado	Independence
+USS Cowpens	Ticonderoga
+USS Curtis Wilbur	Arleigh Burke
+USS Dallas	Los Angeles
+USS Decatur	Arleigh Burke
+USS Devastator	Avenger
+USS Dewey	Arleigh Burke
+USS Dextrous	Avenger
+USS Donald Cook	Arleigh Burke
+USS Dwight D. Eisenhower	Nimitz
+USS Elrod	Oliver Hazard Perry
+USS Emory S. Land	Emory S. Land
+USS Essex	Wasp
+USS Farragut	Arleigh Burke
+USS Firebolt	Cyclone
+USS Fitzgerald	Arleigh Burke
+USS Florida	Ohio
+USS Forrest Sherman	Arleigh Burke
+USS Fort McHenry	Whidbey Island
+USS Fort Worth	Freedom
+USS Frank Cable	Emory S. Land
+USS Freedom	Freedom
+USS Gary	Oliver Hazard Perry
+USS George Washington	Nimitz
+USS George H.W. Bush	Nimitz
+USS Georgia	Ohio
+USS Germantown	Whidbey Island
+USS Gettysburg	Ticonderoga
+USS Gladiator	Avenger
+USS Gonzalez	Arleigh Burke
+USS Gravely	Arleigh Burke
+USS Green Bay	San Antonio
+USS Greeneville	Los Angeles
+USS Gridley	Arleigh Burke
+USS Gunston Hall	Whidbey Island
+USS Halsey	Arleigh Burke
+USS Hampton	Los Angeles
+USS Harpers Ferry	Harpers Ferry
+USS Harry S. Truman	Nimitz
+USS Hartford	Los Angeles
+USS Hawaii	Virginia
+USS Helena	Los Angeles
+USS Henry M. Jackson	Ohio
+USS Higgins	Arleigh Burke
+USS Hopper	Arleigh Burke
+USS Houston	Los Angeles
+USS Howard	Arleigh Burke
+USS Hue City	Ticonderoga
+USS Hurricane	Cyclone
+USS Independence	Independence
+USS Ingraham	Oliver Hazard Perry
+USS Iwo Jima	Wasp
+USS Jacksonville	Los Angeles
+USS James E. Williams	Arleigh Burke
+USS Jason Dunham	Arleigh Burke
+USS Jefferson City	Los Angeles
+USS Jimmy Carter	Seawolf
+USS John C. Stennis	Nimitz
+USS John Paul Jones	Arleigh Burke
+USS John S. McCain	Arleigh Burke
+USS Kauffman	Oliver Hazard Perry
+USS Kearsarge	Wasp
+USS Kentucky	Ohio
+USS Key West	Los Angeles
+USS Kidd	Arleigh Burke
+USS La Jolla	Los Angeles
+USS Laboon	Arleigh Burke
+USS Lake Champlain	Ticonderoga
+USS Lake Erie	Ticonderoga
+USS Lassen	Arleigh Burke
+USS Leyte Gulf	Ticonderoga
+USS Louisiana	Ohio
+USS Louisville	Los Angeles
+USS Mahan	Arleigh Burke
+USS Maine	Ohio
+USS Makin Island	Wasp
+USS Maryland	Ohio
+USS Mason	Arleigh Burke
+USS McCampbell	Arleigh Burke
+USS McClusky	Oliver Hazard Perry
+USS McFaul	Arleigh Burke
+USS Mesa Verde	San Antonio
+USS Michael Murphy	Arleigh Burke
+USS Michigan	Ohio
+USS Milius	Arleigh Burke
+USS Minnesota	Virginia
+USS Mississippi	Virginia
+USS Missouri	Virginia
+USS Mitscher	Arleigh Burke
+USS Mobile Bay	Ticonderoga
+USS Momsen	Arleigh Burke
+USS Monsoon	Cyclone
+USS Monterey	Ticonderoga
+USS Montpelier	Los Angeles
+USS Mount Whitney	Blue Ridge
+USS Mustin	Arleigh Burke
+USS Nebraska	Ohio
+USS Nevada	Ohio
+USS New Hampshire	Virginia
+USS New Mexico	Virginia
+USS New Orleans	San Antonio
+USS New York	San Antonio
+USS Newport News	Los Angeles
+USS Nimitz	Nimitz
+USS Nitze	Arleigh Burke
+USS Norfolk	Los Angeles
+USS Normandy	Ticonderoga
+USS North Carolina	Virginia
+USS O&#39;Kane	Arleigh Burke
+USS Oak Hill	Harpers Ferry
+USS Ohio	Ohio
+USS Oklahoma City	Los Angeles
+USS Olympia	Los Angeles
+USS Oscar Austin	Arleigh Burke
+USS Pasadena	Los Angeles
+USS Patriot	Avenger
+USS Paul Hamilton	Arleigh Burke
+USS Pearl Harbor	Harpers Ferry
+USS Peleliu	Tarawa
+USS Pennsylvania	Ohio
+USS Philippine Sea	Ticonderoga
+USS Pinckney	Arleigh Burke
+USS Pioneer	Avenger
+USS Pittsburgh	Los Angeles
+USS Ponce	Austin
+USS Port Royal	Ticonderoga
+USS Porter	Arleigh Burke
+USS Preble	Arleigh Burke
+USS Princeton	Ticonderoga
+USS Providence	Los Angeles
+USS Pueblo	Banner
+USS Ramage	Arleigh Burke
+USS Rhode Island	Ohio
+USS Rodney M. Davis	Oliver Hazard Perry
+USS Ronald Reagan	Nimitz
+USS Roosevelt	Arleigh Burke
+USS Ross	Arleigh Burke
+USS Rushmore	Whidbey Island
+USS Russell	Arleigh Burke
+USS Sampson	Arleigh Burke
+USS Samuel B. Roberts	Oliver Hazard Perry
+USS San Antonio	San Antonio
+USS San Diego	San Antonio
+USS San Francisco	Los Angeles
+USS San Jacinto	Ticonderoga
+USS San Juan	Los Angeles
+USS Santa Fe	Los Angeles
+USS Scout	Avenger
+USS Scranton	Los Angeles
+USS Seawolf	Seawolf
+USS Sentry	Avenger
+USS Shamal	Cyclone
+USS Shiloh	Ticonderoga
+USS Shoup	Arleigh Burke
+USS Simpson	Oliver Hazard Perry
+USS Sirocco	Cyclone
+USS Somerset	San Antonio
+USS Springfield	Los Angeles
+USS Spruance	Arleigh Burke
+USS Squall	Cyclone
+USS Sterett	Arleigh Burke
+USS Stethem	Arleigh Burke
+USS Stockdale	Arleigh Burke
+USS Stout	Arleigh Burke
+USS Taylor	Oliver Hazard Perry
+USS Tempest	Cyclone
+USS Tennessee	Ohio
+USS Texas	Virginia
+USS The Sullivans	Arleigh Burke
+USS Theodore Roosevelt	Nimitz
+USS Thunderbolt	Cyclone
+USS Toledo	Los Angeles
+USS Topeka	Los Angeles
+USS Tornado	Cyclone
+USS Tortuga	Whidbey Island
+USS Truxtun	Arleigh Burke
+USS Tucson	Los Angeles
+USS Typhoon	Cyclone
+USS Vandegrift	Oliver Hazard Perry
+USS Vella Gulf	Ticonderoga
+USS Vicksburg	Ticonderoga
+USS Virginia	Virginia
+USS Warrior	Avenger
+USS Wasp	Wasp
+USS Wayne E. Meyer	Arleigh Burke
+USS West Virginia	Ohio
+USS Whidbey Island	Whidbey Island
+USS Whirlwind	Cyclone
+USS William P. Lawrence	Arleigh Burke
+USS Winston S. Churchill	Arleigh Burke
+USS Wyoming	Ohio
+USS Zephyr	Cyclone

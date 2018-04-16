@@ -1,0 +1,65 @@
+William Henry Harrison
+Martin Van Buren
+John Adams
+George Washington
+Zachary Taylor
+Richard Nixon
+John Quincy Adams
+Dwight D. Eisenhower
+Herbert Hoover
+James A. Garfield
+Bill Clinton
+John F. Kennedy
+George W. Bush
+Franklin D. Roosevelt
+Jimmy Carter
+Thomas Jefferson
+James K. Polk
+James Madison
+Andrew Johnson
+Ulysses S. Grant
+John Tyler
+Andrew Jackson
+William Howard Taft
+Ronald Reagan
+Woodrow Wilson
+Grover Cleveland
+James Buchanan
+Chester A. Arthur
+Warren G. Harding
+Gerald Ford
+Benjamin Harrison
+Franklin Pierce
+Abraham Lincoln
+Calvin Coolidge
+Millard Fillmore
+Rutherford B. Hayes
+Barack Obama
+James Monroe
+Harry S. Truman
+George H. W. Bush
+William McKinley
+Theodore Roosevelt
+Lyndon B. Johnson
+
+Vermont
+North Carolina
+New York
+Kentucky
+Hawaii
+California
+Arkansas
+New Jersey
+South Carolina
+Pennsylvania
+Nebraska
+Iowa
+Massachusetts
+Texas
+Illinois
+New Hampshire
+Missouri
+Connecticut
+Ohio
+Georgia
+Virginia

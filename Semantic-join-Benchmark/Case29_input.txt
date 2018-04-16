@@ -1,0 +1,250 @@
+Charleston School Of Law
+University Of Southern California
+Faulkner University
+George Mason University
+Rutgers University-Camden
+University Of Colorado
+University Of Denver
+Harvard University
+Washington University
+George Washington University
+University Of Miami
+Fordham University
+Texas Southern University
+University of La Verne
+Western New England College
+University Of Puerto Rico
+University Of Dayton
+University Of Illinois
+Atlanta's John Marshall Law School
+Rutgers University-Newark
+Northeastern University
+University Of Oklahoma
+University Of South Carolina
+University Of Iowa
+Indiana University - Bloomington
+University Of Texas At Austin
+St. John's University
+Lewis And Clark College
+American University
+University Of Arkansas, Little Rock
+Hofstra University
+South Texas College Of Law
+University of the Pacific, McGeorge School of Law
+St. Louis University
+Regent University
+Loyola University-New Orleans
+University Of Minnesota
+Stetson University
+Case Western Reserve University
+Washington And Lee University
+Mississippi College
+Samford University
+University Of Richmond
+University Of North Carolina
+Wake Forest University
+Nova Southeastern University
+Santa Clara University
+Baylor University
+John Marshall Law School
+Texas Tech University
+Northern Kentucky University
+University Of California-Berkeley
+Franklin Pierce Law Center
+Loyola Law School, Los Angeles
+Washburn University
+Hamline University
+University Of Mississippi
+Widener University-Harrisburg
+Ave Maria University School Of Law
+University Of Missouri-Columbia
+University Of Detroit Mercy
+University Of Oregon
+Temple University
+University Of San Francisco
+Widener University
+Brooklyn Law School
+Southern Illinois University-Carbondale
+University Of Baltimore
+University Of Arizona
+University Of Virginia
+Southern Methodist University
+University Of Akron
+Drake University
+Seattle University
+Cornell University
+Thomas M. Cooley Law School
+Touro College
+University Of St. Thomas School Of Law
+University Of Montana
+University Of Tennessee
+Pace University
+Howard University
+Florida International School Of Law
+Liberty University
+University Of Florida
+Texas Wesleyan University
+University Of Notre Dame
+Yale University
+CUA Columbus School of Law
+University Of Pittsburgh
+Gonzaga University
+Appalachian School Of Law
+University Of Louisville
+New York Law School
+Ohio State University
+University Of Washington
+St. Thomas University
+University Of California-Hastings
+University Of Connecticut
+SMU Dedman School of Law
+William And Mary School Of Law
+University Of Wyoming
+Arizona State University
+Yeshiva University
+Depaul University
+University Of Wisconsin
+Florida A&M School Of Law
+Golden Gate University
+Emory University
+Florida State University
+Loyola University-Chicago
+Duke University
+University Of Kansas
+Wayne State University
+Roger Williams University
+University Of Memphis
+Mercer University
+University Of Alabama
+Cleveland State University
+University Of Maine
+Vermont Law School
+Boston University
+Western State School Of Law
+Thomas Jefferson School Of Law
+Albany Law School Of Union University
+University Of Kentucky
+University Of Georgia
+Vanderbilt University
+University Of New Mexico
+City University Of New York
+Campbell University
+Marquette University
+New England School Of Law
+Brigham Young University
+Tufts University
+Duquesne University
+Louisiana State University
+Illinois Institute Of Technology
+St. Mary's University
+District Of Columbia
+Oklahoma City University
+Chapman University School Of Law
+Georgia State University
+University Of San Diego
+Stanford University
+Michigan State University - Dcl College
+Indiana University - Indianapolis
+Willamette University
+Drexel University
+University Of North Dakota
+North Carolina Central University
+University Of California-Los Angeles
+University Of Missouri-Kansas City
+Pepperdine University
+University Of Nebraska
+University Of Houston
+University Of Chicago
+University Of Tulsa
+Southwestern University
+Southern University
+Northwestern University
+University Of Toledo
+Florida Coastal School Of Law
+Barry University
+Georgetown University
+Seton Hall University
+University Of Utah
+Quinnipiac College
+Elon University
+Valparaiso University
+Capital University
+Villanova University
+Dickinson School Of Law, Penn State
+University Of Cincinnati
+Catholic University Of America
+Columbia University
+Creighton University
+Tulane University
+University Of Pennsylvania
+New York University
+West Virginia University
+William S. Boyd School Of Law
+Ohio Northern University
+Syracuse University
+University Of South Dakota
+University Of Michigan
+Whittier College
+University Of Hawaii
+University Of Maryland
+University Of California-Davis
+Boston College
+University Of Arkansas, Fayetteville
+California Western School Of Law
+State University Of New York At Buffalo
+University Of Idaho
+Suffolk University
+Northern Illinois University
+William Mitchell College Of Law
+
+North Carolina
+Indiana
+Wyoming
+Utah
+Arizona
+Montana
+Kentucky
+California
+Kansas
+Florida
+Delaware
+Pennsylvania
+Iowa
+Mississippi
+Texas
+Illinois
+Connecticut
+Georgia
+Virginia
+Maryland
+Idaho
+Oregon
+Vermont
+Puerto Rico
+Oklahoma
+Maine
+Tennessee
+Alabama
+Arkansas
+South Carolina
+Washington
+Nebraska
+West Virginia
+Massachusetts
+Colorado
+Missouri
+District Of Columbia
+North Dakota
+Wisconsin
+Nevada
+New York
+Rhode Island
+Hawaii
+South Dakota
+Minnesota
+New Jersey
+Michigan
+New Mexico
+New Hampshire
+Louisiana
+Ohio

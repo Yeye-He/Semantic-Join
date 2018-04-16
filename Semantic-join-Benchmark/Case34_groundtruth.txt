@@ -1,0 +1,50 @@
+Toyota	Japan
+GM	United States
+Volkswagen	Germany
+Hyundai	South Korea
+Ford	United States
+Nissan	Japan
+Honda	Japan
+PSA	France
+Suzuki	Japan
+Renault	France
+Chrysler	United States
+Daimler AG	Germany
+Fiat	Italy
+BMW	Germany
+SAIC	China
+Tata	India
+Mazda	Japan
+Dongfeng Motor	China
+Mitsubishi	Japan
+Changan	China
+Geely	China
+Fuji	Japan
+BAIC	China
+FAW	China
+Great Wall	China
+Mahindra	India
+Isuzu	Japan
+Chery	China
+AvtoVAZ	Russia
+Brilliance	China
+JAC	China
+BYD	China
+Chongqing Lifan Motor Co	China
+Volvo	Sweden
+Proton	Malaysia
+China National Heavy Duty Truck	China
+Paccar	United States
+GAZ	Russia
+Ashok Leyland	India
+Hunan Jiangnan Automobile Manufacturing Co	China
+Guangzhou Auto Industry	China
+Shannxi	China
+Porsche	Germany
+South East (Fujian)	China
+Navistar	United States
+Xiamen King Long	China
+UAZ	Russia
+Tangjun Ou Ling	China
+Hebei Zhongxing	China
+Sichuan Nanjun	China

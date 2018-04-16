@@ -1,0 +1,61 @@
+Emirates Airline	United Arab Emirates
+Qatar Airways	Qatar
+Saudi Arabian Airlines	Saudi Arabia
+AirAsia	Malaysia
+Air China	China
+Air New Zealand Group	New Zealand
+ANA - All Nippon Airways	Japan
+Asiana Airlines	South Korea
+Cathay Pacific	China
+Cebu Pacific Air	Philippines
+China Airlines	Taiwan
+China Eastern Airlines	China
+China Southern Airlines	China
+Garuda Indonesia	Indonesia
+Hainan Group	China
+JAL Group(Japan Airlines)	Japan
+Jet Airways	India
+Jetstar	Australia
+Kingfisher Airlines	India
+Korean Air	South Korea
+Lion Air	Indonesia
+Malaysia Airlines	Malaysia
+Qantas	Australia
+Shenzhen Airlines	China
+Singapore Airlines	Singapore
+Thai Airways International	Thailand
+Vietnam Airlines	Vietnam
+Virgin Blue Airlines	Australia
+Aer Lingus	United Kingdom
+Aeroflot Russian Airlines	Russia
+Air Berlin Group	Germany
+Air France KLM	France
+Alitalia	Italy
+Austrian Airlines Group	Austria
+British Airways	United Kingdom
+easyJet	United Kingdom
+Lufthansa	Germany
+Ryanair	Ireland
+Swiss	Switzerland
+Thomson Airways	United Kingdom
+Turkish Airlines (THY)	Turkey
+Vueling Airlines	Spain
+Avianca	Colombia
+Gol Linhas Aereas	Brazil
+LAN Airlines	Chile
+TAM Linhas Aereas	Brazil
+Air Canada	Canada
+AirTran Airways	USA
+Alaska Airlines	USA
+American Airlines	USA
+Atlantic Southeast Airlines	USA
+Delta Air Lines	USA
+ExpressJet Airlines	USA
+Frontier Airlines	USA
+JetBlue Airways	USA
+Mesa Airlines	USA
+Pinnacle Airlines	USA
+SkyWest Airlines	USA
+Southwest Airlines	USA
+US Airways	USA
+WestJet	Canada

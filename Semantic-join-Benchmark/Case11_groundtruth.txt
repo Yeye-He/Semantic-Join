@@ -1,0 +1,17 @@
+Garnet	January
+Amethyst	February
+Aquamarine	March
+Diamond	April
+Emerald	May
+Pearl	June
+Alexandrite	June
+Ruby	July
+Peridot	August
+Sapphire	September
+Tourmaline	October
+Opal	October
+Topaz	November
+Citrine	November
+Tanzanite	December
+Zircon	December
+Turquoise	December

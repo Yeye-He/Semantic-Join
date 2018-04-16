@@ -1,0 +1,16 @@
+Brampton
+Winnipeg
+Vancouver
+Calgary
+Edmonton
+Mississauga
+Hamilton
+Ottawa
+Montreal
+Toronto
+
+Manitoba
+Alberta
+Quebec
+British Columbia
+Ontario
